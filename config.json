@@ -17,7 +17,11 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "",
+    "100071457007723",
+    ""
+  ],
+   "vipUser": [
+    "100071457007723",
     ""
   ],
   "whiteListMode": {
@@ -25,10 +29,12 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "Your_Bot_Name",
-  "prefix": "/",
+  "api": "https://www.noobs-api.rf.gd/dipto",
+  "nickNameBot": "• 𝑻𝒐𝒎 𝑳𝒊𝒕𝑒 🦠",
+  "authorName": "𝑨𝑏𝒖 𝑩𝒐𝒌𝒌𝒐𝒓",
+  "prefix": "!",
   "database": {
-    "type": "sqlite",
+    "type": "json",
     "uriMongodb": "",
     "autoSyncWhenStart": false,
     "autoRefreshThreadInfoFirstTime": true,
